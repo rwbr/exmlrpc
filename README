@@ -1,4 +1,4 @@
-This is an Erlang implementation of an HTTP 1.1 compliant XML-RPC library.
+This is an Erlang implementation of an HTTP 1.1 compliant XML-RPC library originally made by Joakim Grebenö.
 The library is compliant with the XML-RPC specification published by http://www.xmlrpc.org/.
 
 Prerequisites:
