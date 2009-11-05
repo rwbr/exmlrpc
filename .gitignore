@@ -1,1 +1,3 @@
+*.beam
+ebin
 .DS_Store
